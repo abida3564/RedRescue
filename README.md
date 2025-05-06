@@ -30,7 +30,7 @@ The class diagram shows the object-oriented structure of the system including cl
 
 The use case diagram shows the interaction between actors and the system.
 
-![Use Case Diagram](usecase1135.png)
+![Use Case Diagram](image/usecase1135.png)
 
 ---
 ## 5. Activity Diagrams
