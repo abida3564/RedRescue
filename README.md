@@ -50,13 +50,13 @@ Activity diagrams model the workflows of various subsystems.
 
 | No.   | 📌 Topic / Model               | Fahima | Keya | Arpa | Sawda |
 |-------|---------------------------------|--------|-------|-----|------|
-| 1     | Use Case Diagram                | ✅     | ✅   |     |      |
-| 2     | Activity Diagram (Donor)        | ✅     | ✅   |     |      |
-| 3     | Activity Diagram (Inventory)    | ✅     |      |      |     |
-| 4     | Activity Diagram (Distribution) | ✅     |    |     |     |
-| 5     | Class Diagram                   | ✅     | ✅   |    |      |
-| 6     | ER Diagram                      | ✅     | ✅   |    |      |
-| 7     | Schema Diagram                  | ✅     | ✅   |    |      |
+| 1     | Use Case Diagram                | ✅     | ✅   | ✅  |      |
+| 2     | Activity Diagram (Donor)        | ✅     | ✅   | ✅  |      |
+| 3     | Activity Diagram (Inventory)    | ✅     |      |  ✅ |     |
+| 4     | Activity Diagram (Distribution) | ✅     |      |  ✅  |     |
+| 5     | Class Diagram                   | ✅     | ✅   | ✅   |      |
+| 6     | ER Diagram                      | ✅     | ✅   | ✅  |      |
+| 7     | Schema Diagram                  | ✅     | ✅   | ✅   |      |
 | 8     | Database Design Documentation   |      |         |     |     |
 | 9     | System Architecture Overview    |      |      |       |      |
 | 10    | GitHub Wiki and Page Setup      |      |        |     |     |
